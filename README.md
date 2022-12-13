@@ -20,7 +20,7 @@ To achieve this test framework, a test case on a [demo website page](https://kat
 
   ***2. .json file (fixture)***   where to save the test data to be used through the different UI actions.
   
-  ***2. .cy class (commands)***   where the login via POST request is implemented.
+  ***3. .cy class (commands)***   where the login via POST request is implemented.
   
   
   
